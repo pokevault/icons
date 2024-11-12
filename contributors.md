@@ -1,5 +1,14 @@
 ## Credits
 
+**Message from me (libdev-hacker)**
+
+I want to thank every single one of these individuals for their work that I'm forking (*cough* stealing *cough*).
+But also [martimlobao](https://github.com/martimlobao) for keeping this resource up-to-date.
+
+From the very bottom of my heart, Thank You for allowing this project to be above the rest :)
+
+---
+
 All of the original sprites used in this project were sourced from products by Nintendo/Creatures Inc./GAME FREAK Inc.
 
 All shiny sprites were made by [@Dada78641](https://twitter.com/dada78641) except where otherwise noted. In total, 1842 shiny Pokémon sprites were made:

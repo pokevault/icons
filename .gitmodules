@@ -1,0 +1,4 @@
+[submodule "scripts/pokedex"]
+	path = scripts/pokedex
+	url = https://github.com/pokevault/pokedex
+	branch = submodule
